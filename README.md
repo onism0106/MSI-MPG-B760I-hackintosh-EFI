@@ -1,5 +1,9 @@
 # MSI-MPG-B760I-hackintosh-EFI
 
+OC：0.9.5
+
+支持Ventura/Sonoma
+
 BIOS设置：
 1.关闭安全启动
 2.关闭CFG Lock
