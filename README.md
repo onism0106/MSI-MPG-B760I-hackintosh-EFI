@@ -22,5 +22,6 @@ wifi蓝牙正常
 唤醒后蓝牙自动关闭，手动开启后搜索不到设备，且无法再开启或关闭
 
 解决方案:睡眠前关闭蓝牙,唤醒后打开蓝牙,可以使用自动化工具来完成:
-教程:http://www.manongjc.com/detail/42-zzaflsxoovdzvts.html
+教程:https://www.cnblogs.com/suguangti/p/17249839.html
+
 
